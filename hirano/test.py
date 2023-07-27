@@ -1,3 +1,3 @@
 class sample:
     print("hello")
-    print("sample")
+    print("test")
